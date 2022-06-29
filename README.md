@@ -2,7 +2,7 @@
 
 # Restatic - A Boring Open Source GUI for Restic
 
-:warning: :warning: ***This is still under heavy developement and currently unusable !!! It's a fork of [Vorta](https://github.com/borgbase/vorta).*** :warning: :warning:
+:warning: :warning: ***This is a fork and I'm currently working my way though the code.*** :warning: :warning:
 
 ![](https://i.imgur.com/T5lly19.png)
 
