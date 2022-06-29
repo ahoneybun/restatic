@@ -54,11 +54,13 @@ Install the environment in development/editable mode while in the repo:
 
 ```
 mkdir venv
-virtualenv-3 venv
+virtualenv venv
 source venv/bin/activate
 pip install -r requirements-dev.txt
 pip install -e .
 ```
+
+Replace `source venv/bin/activate` to match your shell such as `source venv/bin/activate.fish` for the fish shell.
 
 Then run as Python script:
 ```
